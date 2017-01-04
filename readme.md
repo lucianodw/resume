@@ -39,8 +39,8 @@ View [Web App Demo](http://www.lucianodiaz.net/30th/#/), [RSVP Reporting Panel](
 ## Bootstrap Button Generator (AngularJS, Boostrap)
 A bootstrap button generator used by Direct Wines to produce branded buttons.
 
-![Bootstrap Button Generator Screenshots](/images/rsvp_app.png "Bootstrap Button Generator Screenshots")
+![Bootstrap Button Generator Screenshots](/images/button_generator.png "Bootstrap Button Generator Screenshots")
 
-The simple tool was used for the Design team to quickly add class names to buttons to get the look & feel they wanted.  The app was built using AngularJS as the front-end frame work - to take advantage of the two-way data-binding feature.  
+The simple tool was used for the Design team to quickly add class names to buttons to get the look & feel they wanted.  The app was built using AngularJS as the front-end frame work - to take advantage of the two-way data-binding feature.  This tool also contained a library for references.
 
-View [Demo](http://www.lucianodiaz.net/tool_button_generator) & [Github](https://github.com/lucianodw/tools-button-generatorp).
+View [Demo](http://www.lucianodiaz.net/tool_button_generator) & [Github](https://github.com/lucianodw/tools-button-generator).
