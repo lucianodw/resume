@@ -30,6 +30,8 @@ A RSVP tool used for a birthday where each guest was given a unique code.  If yo
 
 The responsive web app was built 100% on the front-end.  AngularJS as the front-end framework and firebase as the cloud database.  AngularFire was used to sync AngularJS data with Firebase DB.  An Admin Panel was also built for managing codes, RSVPs & drink choices.  HTML5 background video was used for desktop & static image for ipad/iphone (due to no autoplay support).
 
+**To Demo Web App, use code _TEST_**
+
 View [Web App Demo](http://www.lucianodiaz.net/30th/#/), [RSVP Reporting Panel](http://www.lucianodiaz.net/30th/#/rsvp) & [Github](https://github.com/lucianodw/rsvp).
 
 ***
