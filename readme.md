@@ -15,7 +15,7 @@ View [Demo](http://pepespyramid.com) & [Github](https://github.com/lucianodw/pep
 ## XML to CSV Converter (Electron, AngularJS, NodeJS)
 An electron app that allows the client to upload an large (100MB+) XML file, choose which data points to convert, and save the final converted file.
 
-[image goes here]
+![Pepes Pyramid Screenshots](/images/pepe_pyramid.png "Pepes Pyramid Screenshots")
 
 The app was built using the electron framework which uses AngularJS as the front-end and NodeJS as the back-end.  A few AngularJS & Node modules were used to help with uploading, conversion and async executions. Running an electron app allowed for high conversion times without server timeouts.
 
